@@ -4,6 +4,8 @@ Multi-style image slicing and animation for the **UNIHIKER K10** (ESP32-S3, Micr
 
 Splits an image into horizontal slices and animates them into place using a handful of eased transition styles — slide, cascade, zoom, bounce, and explode — all rendered live on the K10's onboard 2.8" screen.
 
+<img width="321" height="518" alt="image" src="https://github.com/user-attachments/assets/fe37eeb3-a67c-4428-aa66-ddb313350110" />
+
 ## Demo
 
 Tested with a 225x220 RGB565 image (`cg_225x220_map_data.py`, ~400KB as a Python source file). Runs smoothly at both 10 and 20 slices on the K10's ESP32-S3 @ 240MHz.
