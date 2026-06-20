@@ -6,7 +6,7 @@ Splits an image into horizontal slices and animates them into place using a hand
 
 ## Demo
 
-Tested with a 225x220 RGB565 image (`cg_225x220_map_data.py`, ~400KB as a Python source file). Runs smoothly at both 10 and 20 slices on the K10's ESP32-S3 @ 240MHz.
+Tested with a 225x220 RGB565 image (`cat.py`, ~400KB as a Python source file). Runs smoothly at both 10 and 20 slices on the K10's ESP32-S3 @ 240MHz.
 
 ## Compatibility
 
